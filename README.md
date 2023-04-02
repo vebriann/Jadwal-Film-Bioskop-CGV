@@ -11,7 +11,6 @@
  ### pkg install bs4
  ### python bioskop.py
  
- ################
  # change script #
  before use script, you have to change os.system("cls") -> os.system("clear")
  
