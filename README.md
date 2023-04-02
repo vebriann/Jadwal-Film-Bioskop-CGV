@@ -2,8 +2,8 @@
  source :
  ``` https://jadwalnonton.com/bioskop/di-purwokerto/cgv-rita-supermall-purwokerto-2.html ```
  
- ### how to install for android ###
- # pkg install git
+ # how to install for android #
+ ### pkg install git
  # git clone https://github.com/vebriann/Jadwal-Film-Bioskop-CGV
  # cd Jadwal-Film-Bioskop-CGV
  # pkg install python
